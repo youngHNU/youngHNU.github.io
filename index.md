@@ -88,12 +88,12 @@ layout: default
 
 <div class="job-role-list">
     <div>
-        <p>Kyobo Bookstore Development<br><br>개발자를 꿈꾸기 위해 교보문고 분야에서 가장 인기 많은 풀스텍(프론트엔드, 백엔드) 언어 쪽을 공부하며 다양한 프로젝트를 만들어 나갈 예정이다.</p>
+        <p>Kyobo Bookstore Development: <br><br>개발자를 꿈꾸기 위해 교보문고 분야에서 가장 인기 많은 풀스텍(프론트엔드, 백엔드) 언어 쪽을 공부하며 다양한 프로젝트를 만들어 나갈 예정이다.</p>
         <div class="rating">
         </div>
     </div>
     <div>
-        <p>Apple Developer<br><br>Apple에 관한 관심과 흥미가 있어 개인적으로 좋아하는 회사이다. IOS 운영체제를 활용하며 Swift언어를 쓸 예정이다. 다른 언어들 보다 많은 사용량은 아니지만 사용자가 점점 많아진다는 점에서 눈여겨 보고 있는 중이다.</p>
+        <p>Apple Developer: <br><br>Apple에 관한 관심과 흥미가 있어 개인적으로 좋아하는 회사이다. IOS 운영체제를 활용하며 Swift언어를 쓸 예정이다. 다른 언어들보다 사용량이 적고 실제로 많이 쓰이지 않는 언어이지만 사용자가 점점 많아진다는 점에서 눈여겨보고 있는 중이다.</p>
         <div class="rating">
         </div>
     </div>
@@ -110,7 +110,7 @@ layout: default
     .skills-icons div, .projects-list div, .job-role-list div {
         background: #fff;
         border-radius: 10px;
-        padding: 10px;
+        padding: 15px;
         width: 150px;
         text-align: center;
     }
