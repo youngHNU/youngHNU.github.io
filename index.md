@@ -54,19 +54,19 @@ layout: default
 
 <div class="projects-list">
     <div>
-        <p>Project 1: 부산헹(C Language)<br>2024.04.19</p>
+        <p>Project 1: 부산헹(C Language)<br><br>2024.04.19</p>
     </div>
     <div>
-        <p>Project 2: Kyobo Bookstore Mobile App<br>(Planned)</p>
+        <p>Project 2: Kyobo Bookstore Mobile App<br><br>(Planned)</p>
     </div>
     <div>
-        <p>Project 3: Kyobo Bookstore Development<br>(Planned)</p>
+        <p>Project 3: Kyobo Bookstore Development<br><br>(Planned)</p>
     </div>
     <div>
-        <p>Project 4: AI Development<br>(Planned)</p>
+        <p>Project 4: AI Development<br><br>(Planned)</p>
     </div>
     <div>
-        <p>Project 5: Cloud Integration<br>(Planned)</p>
+        <p>Project 5: Cloud Integration<br><br>(Planned)</p>
     </div>
 </div>
 
