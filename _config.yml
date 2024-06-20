@@ -58,7 +58,7 @@ social-links:
     url-pattern: weibo.com/__USERNAME__
 
   - name: instagram
-    url-pattern: naver.com/__USERNAME__
+    url-pattern: https://www.naver.com/
 
   - name: flickr
     url-pattern: flickr.com/__USERNAME__
