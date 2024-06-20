@@ -57,16 +57,16 @@ layout: default
         <p>Project 1: 부산헹(C Language)<br>2024.04.19</p>
     </div>
     <div>
-        <p>Project 2: Kyobo Bookstore Mobile App (Planned)</p>
+        <p>Project 2: Kyobo Bookstore Mobile App<br>(Planned)</p>
     </div>
     <div>
-        <p>Project 3: Kyobo Bookstore Development (Planned)</p>
+        <p>Project 3: Kyobo Bookstore Development<br>(Planned)</p>
     </div>
     <div>
-        <p>Project 4:  (Planned)</p>
+        <p>Project 4: AI Development<br>(Planned)</p>
     </div>
     <div>
-        <p>Project 5: Cloud Integration (Planned)</p>
+        <p>Project 5: Cloud Integration<br>(Planned)</p>
     </div>
 </div>
 
