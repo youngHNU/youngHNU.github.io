@@ -110,7 +110,7 @@ layout: default
     .skills-icons div, .projects-list div, .job-role-list div {
         background: #fff;
         border-radius: 10px;
-        padding: 15px;
+        padding: 10px;
         width: 150px;
         text-align: center;
     }
