@@ -1,79 +1,13 @@
-# Cover Card landing page theme
+<h1>Home Page</h1>
+https://younghnu.github.io/
 
-## Quick set-up
+<h1>My skills</h1>
+제가 사용했던 언어와 흥미로 인해 작성들 했던 코드들 추가했으며 총 5점 만점에 각 각 점수를 부여했습니다.
 
-1. [Use this template](https://github.com/epidrome/cover-card/generate)
-2. Edit the `_config.yml` with your online presence accounts and upload a background and an avatar image
-3. Go to the `Settings` tab, then select `Pages` from the sidebar, and find (gh-pages branch) your new home page link
+<h1>Projects</h1>
+저의 첫 프로젝트는 부산헹이며 C언어로만 활용한 프로젝트입니다. 그외에는 제가 하고 싶은 프로젝트(페이지 만들기, 뮤직 플레이어 만들기)등이 간단히 있으며 계획 중입니다.
 
-## Dependencies
 
-This theme is based on [jekyll](https://jekyllrb.com/) and [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme). These dependencies are natively supported by [Github Pages](https://pages.github.com/), which should build and deploy your site as soon as you make any change to your files. The theme is also based on the icons from [Font Awesome](https://fontawesome.com/). 
-
-## Motivation
-
-Create a cover page for your social media profiles, host it for free on Github Pages, and maintain it in minutes, not hours. 
-
-I understand that a jekyll theme without a blog might sound like a self contradiction, but jekyll has also motivated something even more useful than itself: seamless hosting with Github Pages. 
-
-This theme takes advantage of both jekyll and Github Pages, in order to create something similar to [linktree](https://linktr.ee), [about.me](https://about.me/) and [carrd](https://carrd.co), but without the price tag.
-
-In addition to the official demo link, here is one more [demo from my home page](https://github.com/epidrome/home).
-
-This theme is ideal for people or organizations who are busy enjoying their life or business and who want a simple business card for their online presence.
-
-Please keep this README file because it contains the credits at the end and it might become handy after you have completely forgoten the set-up instructions.
-
-## Design rationale
-
-The design rationale of this theme is to do less than other themes: "Less is more"
-
-The majority (99%) of the availabe jekyll themes offers a blog, but I have never been able to keep blog content (or its technology) updated over time.
-
-Let's be honest with ourselves: How does an (abandoned) blog centered web site look to new visitors if we have not posted since two years ago?
-
-## Make it yours
-
-[Fork this repository](https://github.com/epidrome/cover-card/fork) and edit the files to your liking: As a first step, you may want to replace the images and edit the `_config.yml` with your online profiles. You can test the result almost in real-time at the `Github Pages` section in the Settings tab (gh-pages branch).
-
-### Avatar or Logo
-
-The avatar image should be square and at least 200 pixels. Chances are that you have a selfie somewhere in your media storage. If you are making a page for a business or product, then use a logo.
-
-### Background image sets the mood
-
-There is no aspect ratio requirement for the background image, but it should be big enough for contemporary (desktop, tablet, phone) computer displays and dark enough in order to work for the white foreground text and icons.
-
-### Social profiles
-
-Edit the `_config.yml` file with your social media profiles by adding the respective account name, according to the documentation and comments inside that file. You can delete or comment out the social media that you don't need. Since v04, you can also control the order of your social media accounts. Moreover, you can add new media accounts and choose the icon.
-
-### Domain name
-
-Github Pages supports free custom domain names, so it is worth buying a domain name and fill it in `Custom domain` field at the settings. If you want to use the theme with you user page (ie. username.github.io), then delete (or rename) your `master branch` and rename your `gh-branch` to `master` [#13](https://github.com/epidrome/cover-card/issues/13)
-
-### Working example
-
-In addition to the configuration file in this repository, you can also [inspect a modified example of the legacy configuration file](https://github.com/epidrome/home/tree/0f333b28688a7a2e5eb84df768c277a03848d228), which is using the *legacy version* of the theme. Moreover, you can inspect a [custom (icons, links) example of the *current version*](https://github.com/epidrome/home).
-
-### Updates
-
-Please note that the theme is currently in beta, so some updates at the [master branch](https://github.com/epidrome/cover-card/tree/master) might break your site. Don't panic! 
-
-If you wish to keep your theme frozen and not receive updates, then you can [revert your remote_theme to the last known good configuration](https://github.com/benbalter/jekyll-remote-theme):
-
-> You may also optionally specify a branch, tag, or commit to use by appending an @ and the Git ref (e.g., epidrome/cover-card@v0.3). If you don't specify a Git ref, the master branch will be used.
-
-Please note that currently Github Pages seems to build your site only when you make a local change. This means that the theme might get updated but you will not receive the updated version unless you make a local change in your forked repository.
-
-You can always visit [releases](https://github.com/epidrome/cover-card/releases) for new features and check [issues](https://github.com/epidrome/cover-card/issues) for major bugs.
-
-### Expert options
-
-You can find and locally overide advanced options (e.g., font, image, and icon styles) for this theme in the documentation (readme) at the [master branch](https://github.com/epidrome/cover-card/tree/master).
-
-## Credits
-
-This page is based on the [cover-card jekyll remote theme](https://github.com/epidrome/cover-card/tree/master).
-
-Background photo by Anders Jildén and avatar photo by Ayo Ogunseinde, both on [Unsplash](https://unsplash.com/)
+<h1>Desired Job Role</h1>
+제가 희망하는 직무는 2개를 정했으며 애플 개발자하고 교보문고 개발자를 선택했습니다. 애플을 워낙 좋아하는 나머지 맥북을 활용해 Swift 언어를 공부했던 경험이 있습니다. 토익을 공부하면서 기회가 된다면 이루어 내고 싶습니다.
+그리고 또 하고 싶은 직무가 있어 교보문고 개발자를 선택했습니다. 프론트엔드 혹은 백엔드로 공지에 올리는 경우가 있으며 대학을 취업하면 제일 유력하게 가고 싶은 직무입니다.
