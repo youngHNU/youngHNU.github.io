@@ -10,56 +10,56 @@ layout: default
         <p>Java</p>
         <i class="fab fa-java"></i>
         <div class="rating">
-            <span>★★☆☆☆ </span>
+            <span>★★☆☆☆</span>
         </div>
     </div>
     <div class="javascript">
         <p>JavaScript</p>
         <i class="fab fa-js"></i>
         <div class="rating">
-            <span>★★★★☆ </span>
+            <span>★★★★☆</span>
         </div>
     </div>
     <div class="python">
         <p>Python</p>
         <i class="fab fa-python"></i>
         <div class="rating">
-            <span>★★★☆☆ </span>
+            <span>★★★☆☆</span>
         </div>
     </div>
     <div class="c-lang">
         <p>C Language</p>
         <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C language -->
         <div class="rating">
-            <span>★★★★☆ </span>
+            <span>★★★★☆</span>
         </div>
     </div>
     <div class="cpp">
         <p>C++</p>
         <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C++ -->
         <div class="rating">
-            <span>★☆☆☆☆ </span>
+            <span>★☆☆☆☆</span>
         </div>
     </div>
     <div class="csharp">
         <p>C#</p>
         <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C# -->
         <div class="rating">
-            <span>★☆☆☆☆ </span>
+            <span>★☆☆☆☆</span>
         </div>
     </div>
     <div class="html5">
         <p>HTML</p>
         <i class="fab fa-html5"></i>
         <div class="rating">
-            <span>★★★☆☆ </span>
+            <span>★★★☆☆</span>
         </div>
     </div>
     <div class="css3">
         <p>CSS</p>
         <i class="fab fa-css3-alt"></i>
         <div class="rating">
-            <span>★★☆☆☆ </span>
+            <span>★★☆☆☆</span>
         </div>
     </div>
 </div>
@@ -71,16 +71,16 @@ layout: default
         <p>Project 1: 부산헹(C Language)<br><br>2024.04.19</p>
     </div>
     <div>
-        <p>Project 2: Back-End<br><br>(Planned)</p>
+        <p>Project 2: Fashion mall The Website<br><br>(Planned)</p>
     </div>
     <div>
-        <p>Project 3: Frond-End<br><br>(Planned)</p>
+        <p>Project 3: Music Player<br><br>(Planned)</p>
     </div>
     <div>
         <p>Project 4: AI Development<br><br>(Planned)</p>
     </div>
     <div>
-        <p>Project 5: <br><br>(Planned)</p>
+        <p>Project 5: Hotel Reservation System<br><br>(Planned)</p>
     </div>
 </div>
 
