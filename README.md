@@ -1,6 +1,8 @@
 <h1>Home Page</h1>
 https://younghnu.github.io/
 
+교수님꼐서 추천해주신 사이트(http://jekyllthemes.org/) 중 Cover card를 활용했습니다.
+
 <h1>My skills</h1>
 제가 사용했던 언어와 흥미로 인해 작성들 했던 코드들 추가했으며 총 5점 만점에 각 각 점수를 부여했습니다.
 
