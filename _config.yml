@@ -32,10 +32,10 @@ tumblr: 'mytumblr'
 weibo: 'myweibo'
 vk: 'myvk'
 blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
 messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, 
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -149,8 +149,3 @@ social-links:
   - name: blog_url
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-blog
-
-  - name: email
-    url-scheme: 'mailto:'
-    url-pattern: '__USERNAME__'
-    icon-class: far fa-2x fa-envelope-open
