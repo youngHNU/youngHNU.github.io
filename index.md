@@ -42,10 +42,10 @@ layout: default
         </div>
     </div>
     <div class="csharp">
-        <p>C#</p>
-        <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C# -->
+        <p>Swift</p>
+        <i class="fab fa-swift"></i> <!-- Using swift icon for Swift -->
         <div class="rating">
-            <span>★☆☆☆☆</span>
+            <span>★★★☆☆</span>
         </div>
     </div>
     <div class="html5">
