@@ -35,17 +35,17 @@ layout: default
         </div>
     </div>
     <div class="html5">
-        <p>HTML5</p>
+        <p>HTML</p>
         <i class="fab fa-html5"></i>
         <div class="rating">
             <span>★★★☆☆</span>
         </div>
     </div>
     <div class="css3">
-        <p>CSS3</p>
+        <p>CSS</p>
         <i class="fab fa-css3-alt"></i>
         <div class="rating">
-            <span>★★★☆☆</span>
+            <span>★★☆☆☆</span>
         </div>
     </div>
 </div>
@@ -54,16 +54,16 @@ layout: default
 
 <div class="projects-list">
     <div>
-        <p>Project 1: Web Development (Planned)</p>
+        <p>Project 1: 부산헹(C Language)<br>2024.04.19</p>
     </div>
     <div>
-        <p>Project 2: Mobile App (Planned)</p>
+        <p>Project 2: Kyobo Bookstore Mobile App (Planned)</p>
     </div>
     <div>
-        <p>Project 3: Data Analysis (Planned)</p>
+        <p>Project 3: Kyobo Bookstore Development (Planned)</p>
     </div>
     <div>
-        <p>Project 4: AI Development (Planned)</p>
+        <p>Project 4:  (Planned)</p>
     </div>
     <div>
         <p>Project 5: Cloud Integration (Planned)</p>
