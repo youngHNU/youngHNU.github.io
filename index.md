@@ -34,6 +34,20 @@ layout: default
             <span>★★★★☆</span>
         </div>
     </div>
+    <div class="cpp">
+        <p>C++</p>
+        <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C++ -->
+        <div class="rating">
+            <span>★☆☆☆☆</span>
+        </div>
+    </div>
+    <div class="csharp">
+        <p>C#</p>
+        <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C# -->
+        <div class="rating">
+            <span>★☆☆☆☆</span>
+        </div>
+    </div>
     <div class="html5">
         <p>HTML</p>
         <i class="fab fa-html5"></i>
@@ -54,7 +68,7 @@ layout: default
 
 <div class="projects-list">
     <div>
-        <p>Project 1: 부산헹(C Language)<br><br>2024.04.19</p>
+        <p><a href="20222414-2 (1).c" download>Project 1: 부산헹(C Language)<br><br>2024.04.19</a></p>
     </div>
     <div>
         <p>Project 2: Kyobo Bookstore Mobile App<br><br>(Planned)</p>
@@ -121,6 +135,11 @@ layout: default
     .javascript { color: #f0db4f; }
     .python { color: #306998; }
     .c-lang { color: #555555; }
+    .cpp { color: #f34b7d; }
+    .csharp { color: #178600; }
     .html5 { color: #e34c26; }
     .css3 { color: #264de4; }
 </style>
+
+## About
+Welcome to my personal website. Here you can find my projects and contact information.
