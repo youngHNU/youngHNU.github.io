@@ -6,37 +6,37 @@ layout: default
 ## My Skills
 
 <div class="skills-icons">
-    <div>
+    <div class="java">
         <i class="fab fa-java"></i>
         <div class="rating">
-            <span>★★★★★</span>
+            <span>★★☆☆☆</span>
         </div>
     </div>
-    <div>
+    <div class="javascript">
         <i class="fab fa-js"></i>
         <div class="rating">
             <span>★★★★☆</span>
         </div>
     </div>
-    <div>
+    <div class="python">
         <i class="fab fa-python"></i>
-        <div class="rating">
-            <span>★★★★★</span>
-        </div>
-    </div>
-    <div>
-        <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C language -->
         <div class="rating">
             <span>★★★☆☆</span>
         </div>
     </div>
-    <div>
-        <i class="fab fa-html5"></i>
+    <div class="c-lang">
+        <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C language -->
         <div class="rating">
             <span>★★★★☆</span>
         </div>
     </div>
-    <div>
+    <div class="html5">
+        <i class="fab fa-html5"></i>
+        <div class="rating">
+            <span>★★★☆☆</span>
+        </div>
+    </div>
+    <div class="css3">
         <i class="fab fa-css3-alt"></i>
         <div class="rating">
             <span>★★★☆☆</span>
@@ -126,9 +126,11 @@ layout: default
     .rating span {
         color: gold;
     }
+    .java { color: #5382a1; }
+    .javascript { color: #f0db4f; }
+    .python { color: #306998; }
+    .c-lang { color: #555555; }
+    .html5 { color: #e34c26; }
+    .css3 { color: #264de4; }
 </style>
 
-## About
-Welcome to my personal website. Here you can find my projects and contact information.
-
-![Background](background.jpg)
