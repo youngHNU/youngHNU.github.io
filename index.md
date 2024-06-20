@@ -71,16 +71,16 @@ layout: default
         <p>Project 1: 부산헹(C Language)<br><br>2024.04.19</p>
     </div>
     <div>
-        <p>Project 2: Kyobo Bookstore Mobile App<br><br>(Planned)</p>
+        <p>Project 2: <br><br>(Planned)</p>
     </div>
     <div>
-        <p>Project 3: Kyobo Bookstore Development<br><br>(Planned)</p>
+        <p>Project 3: <br><br>(Planned)</p>
     </div>
     <div>
         <p>Project 4: AI Development<br><br>(Planned)</p>
     </div>
     <div>
-        <p>Project 5: Cloud Integration<br><br>(Planned)</p>
+        <p>Project 5: <br><br>(Planned)</p>
     </div>
 </div>
 
@@ -88,22 +88,14 @@ layout: default
 
 <div class="job-role-list">
     <div>
-        <p>Software Developer</p>
+        <p>Kyobo Bookstore Development<br><br>개발자를 꿈꾸기 위해 교보문고 분야에서 가장 인기 많은 풀스텍(프론트엔드, 백엔드) 언어 쪽을 공부하며 다양한 프로젝트를 만들어 나갈 예정이다.</p>
         <div class="rating">
         </div>
     </div>
     <div>
-        <p>Data Scientist</p>
+        <p>Apple Developer<br><br>Apple에 관한 관심과 흥미가 있어 개인적으로 좋아하는 회사이다. IOS 운영체제를 활용하며 Swift언어를 쓸 예정이다. 다른 언어들 보다 많은 사용량은 아니지만 사용자가 점점 많아진다는 점에서 눈여겨 보고 있는 중이다.</p>
         <div class="rating">
         </div>
-    </div>
-    <div>
-        <p>Web Developer</p>
-        <div class="rating">
-        </div>
-    </div>
-    <div>
-        <p>I dream of becoming a Frontend Developer</p>
     </div>
 </div>
 
