@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'My name'
-description: 'Ko Younknknknknknknknng Sun.'
+description: 'Ko Young Sun.'
 
 # Images
 avatar: 'KakaoTalk_Photo_2024-06-20-17-43-46.jpeg'
@@ -15,7 +15,7 @@ favicon: 'favicon.ico'
 facebook: 'myfacebook'
 twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
-instagram: 'myinsta'
+#instagram: 'myinsta'  # 인스타그램 제거
 #pinterest: 'mypinterest'
 youtube: 'myyoutube'
 github-user: 'mygithub'
@@ -32,9 +32,10 @@ tumblr: 'mytumblr'
 weibo: 'myweibo'
 vk: 'myvk'
 blog_url: 'myblog.blog.com'
+email: 'hello@example.com'
 messenger: 'myfbchat'
 
-social-links-order: [github-user, instagram, tumblr, youtube, Python]
+social-links-order: [github-user, facebook, twitter, python, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -56,10 +57,6 @@ social-links-order: [github-user, instagram, tumblr, youtube, Python]
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
-  - name: Python
-  icon-class: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  
-
   - name: facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
@@ -79,8 +76,9 @@ social-links:
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: instagram
-    url-pattern: instagram.com/__USERNAME__
+  - name: python
+    url-pattern: python.org/users/__USERNAME__
+    icon-class: fab fa-2x fa-python
 
   - name: flickr
     url-pattern: flickr.com/__USERNAME__
@@ -152,3 +150,8 @@ social-links:
   - name: blog_url
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-blog
+
+  - name: email
+    url-scheme: 'mailto:'
+    url-pattern: '__USERNAME__'
+    icon-class: far fa-2x fa-envelope-open
