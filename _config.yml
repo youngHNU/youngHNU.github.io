@@ -15,7 +15,7 @@ favicon: 'favicon.ico'
 facebook: 'myfacebook'
 twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
-instagram: 'myinsta'
+#instagram: 'myinsta'  # 인스타그램 제거
 #pinterest: 'mypinterest'
 youtube: 'myyoutube'
 github-user: 'mygithub'
@@ -35,7 +35,7 @@ blog_url: 'myblog.blog.com'
 email: 'hello@example.com'
 messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, facebook, twitter, python, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -76,8 +76,9 @@ social-links:
   - name: weibo
     url-pattern: weibo.com/__USERNAME__
 
-  - name: instagram
-    url-pattern: instagram.com/__USERNAME__
+  - name: python
+    url-pattern: python.org/users/__USERNAME__
+    icon-class: fab fa-2x fa-python
 
   - name: flickr
     url-pattern: flickr.com/__USERNAME__
