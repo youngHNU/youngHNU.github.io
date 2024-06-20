@@ -35,7 +35,7 @@ blog_url: 'myblog.blog.com'
 messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, instagram, tumblr, pinterest, linkedin, youtube, messenger]
-
+![HTML5] (https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white")
 # Yaml manifest of supported social links
 # Requirements:
 # `name`
