@@ -35,7 +35,9 @@ blog_url: 'myblog.blog.com'
 email: 'hello@example.com'
 messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+,github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <img src="https://img.shields.io/badge/JAVA-007396?
           style=flat&logo=Java&logoColor=white"/>
