@@ -7,36 +7,42 @@ layout: default
 
 <div class="skills-icons">
     <div class="java">
+        <p>Java</p>
         <i class="fab fa-java"></i>
         <div class="rating">
             <span>★★☆☆☆</span>
         </div>
     </div>
     <div class="javascript">
+        <p>JavaScript</p>
         <i class="fab fa-js"></i>
         <div class="rating">
             <span>★★★★☆</span>
         </div>
     </div>
     <div class="python">
+        <p>Python</p>
         <i class="fab fa-python"></i>
         <div class="rating">
             <span>★★★☆☆</span>
         </div>
     </div>
     <div class="c-lang">
+        <p>C Language</p>
         <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C language -->
         <div class="rating">
             <span>★★★★☆</span>
         </div>
     </div>
     <div class="html5">
+        <p>HTML5</p>
         <i class="fab fa-html5"></i>
         <div class="rating">
             <span>★★★☆☆</span>
         </div>
     </div>
     <div class="css3">
+        <p>CSS3</p>
         <i class="fab fa-css3-alt"></i>
         <div class="rating">
             <span>★★★☆☆</span>
@@ -49,33 +55,18 @@ layout: default
 <div class="projects-list">
     <div>
         <p>Project 1: Web Development (Planned)</p>
-        <div class="rating">
-            <span>★★★★☆</span>
-        </div>
     </div>
     <div>
         <p>Project 2: Mobile App (Planned)</p>
-        <div class="rating">
-            <span>★★★☆☆</span>
-        </div>
     </div>
     <div>
         <p>Project 3: Data Analysis (Planned)</p>
-        <div class="rating">
-            <span>★★★★★</span>
-        </div>
     </div>
     <div>
         <p>Project 4: AI Development (Planned)</p>
-        <div class="rating">
-            <span>★★★★★</span>
-        </div>
     </div>
     <div>
         <p>Project 5: Cloud Integration (Planned)</p>
-        <div class="rating">
-            <span>★★★★☆</span>
-        </div>
     </div>
 </div>
 
@@ -85,20 +76,20 @@ layout: default
     <div>
         <p>Software Developer</p>
         <div class="rating">
-            <span>★★★★★</span>
         </div>
     </div>
     <div>
         <p>Data Scientist</p>
         <div class="rating">
-            <span>★★★★★</span>
         </div>
     </div>
     <div>
         <p>Web Developer</p>
         <div class="rating">
-            <span>★★★★☆</span>
         </div>
+    </div>
+    <div>
+        <p>I dream of becoming a Frontend Developer</p>
     </div>
 </div>
 
@@ -133,4 +124,3 @@ layout: default
     .html5 { color: #e34c26; }
     .css3 { color: #264de4; }
 </style>
-
