@@ -34,10 +34,7 @@ vk: 'myvk'
 blog_url: 'myblog.blog.com'
 messenger: 'myfbchat'
 
-social-links-order: [github-user, instagram, tumblr, youtube, messenger,<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-]
-
-
+social-links-order: [github-user, instagram, tumblr, youtube, Python]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -59,6 +56,10 @@ social-links-order: [github-user, instagram, tumblr, youtube, messenger,<img src
 #     - defaults to `fab` style and uses value of `name` attribute (e.g. fab fa-2x fa-twitter)
 #     - **optional**
 social-links:
+  - name: Python
+  icon-class: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  
+
   - name: facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
