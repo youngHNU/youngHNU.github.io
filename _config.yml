@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'My name'
-description: 'Ko Young Sundddd.'
+description: 'Ko Young Sun.'
 
 # Images
 avatar: 'KakaoTalk_Photo_2024-06-20-17-43-46.jpeg'
@@ -35,12 +35,8 @@ blog_url: 'myblog.blog.com'
 email: 'hello@example.com'
 messenger: 'myfbchat'
 
-social-links-order: [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-,github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
-<img src="https://img.shields.io/badge/JAVA-007396?
-          style=flat&logo=Java&logoColor=white"/>
 # Yaml manifest of supported social links
 # Requirements:
 # `name`
