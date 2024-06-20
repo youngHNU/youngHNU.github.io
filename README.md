@@ -1,58 +1,79 @@
-# Kross Jekyll
+# Cover Card landing page theme
 
-Kross Jekyll Creative Portfolio Template ported from [Kross HTML Template](https://themefisher.com/products/kross/)
+## Quick set-up
 
-## Demo
+1. [Use this template](https://github.com/epidrome/cover-card/generate)
+2. Edit the `_config.yml` with your online presence accounts and upload a background and an avatar image
+3. Go to the `Settings` tab, then select `Pages` from the sidebar, and find (gh-pages branch) your new home page link
 
-| Homepage  | About  | Blog  | Portfolio  | Contact  |
-|---|---|---|---|---|
-| ![Homepage](https://user-images.githubusercontent.com/37659754/58154295-1a9c5300-7c93-11e9-992c-ad8d2ff8d99f.png) | ![About](https://user-images.githubusercontent.com/37659754/58154317-28ea6f00-7c93-11e9-914b-b7e5f1cdab0e.png) | ![Blog](https://user-images.githubusercontent.com/37659754/58154339-369ff480-7c93-11e9-9568-53b7ebdc6b2d.png) | ![portfolio](https://user-images.githubusercontent.com/37659754/58154368-491a2e00-7c93-11e9-8900-f5a6abe0a61d.png) | ![contact](https://user-images.githubusercontent.com/37659754/58154403-57684a00-7c93-11e9-9cea-ea28253a6f6a.png) |
+## Dependencies
 
-[Live Preview](http://demo.themefisher.com/kross).
+This theme is based on [jekyll](https://jekyllrb.com/) and [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme). These dependencies are natively supported by [Github Pages](https://pages.github.com/), which should build and deploy your site as soon as you make any change to your files. The theme is also based on the icons from [Font Awesome](https://fontawesome.com/). 
 
-## Setup
+## Motivation
 
-To start your project, fork this repository
-After forking the repo, your site will be live immediately on your personal Github Pages account, e.g. `https://yourusername.github.io/your-repo-name/`.
+Create a cover page for your social media profiles, host it for free on Github Pages, and maintain it in minutes, not hours. 
 
-Make sure GitHub Pages is enabled for your repo. It might take some time for the site to propagate entirely.
+I understand that a jekyll theme without a blog might sound like a self contradiction, but jekyll has also motivated something even more useful than itself: seamless hosting with Github Pages. 
 
-## Customize
+This theme takes advantage of both jekyll and Github Pages, in order to create something similar to [linktree](https://linktr.ee), [about.me](https://about.me/) and [carrd](https://carrd.co), but without the price tag.
 
-Things you can customize in `_data/settings.yml` (no HTML/CSS):
+In addition to the official demo link, here is one more [demo from my home page](https://github.com/epidrome/home).
 
-- Theme General Settings ( name, logo, email, phone, address )
-- Hero Section
-- About Section
-- Team Section
-- Skills Section
-- Experience Section
-- Education Section
-- Services Section
-- Portfolio Section
-- Testimonials Section
-- Client Slider Section
-- Contact Section
+This theme is ideal for people or organizations who are busy enjoying their life or business and who want a simple business card for their online presence.
 
-## Deployment
+Please keep this README file because it contains the credits at the end and it might become handy after you have completely forgoten the set-up instructions.
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll's website.
+## Design rationale
 
-## Reporting Issues
+The design rationale of this theme is to do less than other themes: "Less is more"
 
-We use GitHub Issues as the official bug tracker for the **Kross Theme**. Please Search [existing issues](https://github.com/themefisher/kross-jekyll/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/kross-jekyll/issues/new)
+The majority (99%) of the availabe jekyll themes offers a blog, but I have never been able to keep blog content (or its technology) updated over time.
 
-## Technical Support or Questions
+Let's be honest with ourselves: How does an (abandoned) blog centered web site look to new visitors if we have not posted since two years ago?
 
-If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.
+## Make it yours
 
-<!-- licence -->
-## License
+[Fork this repository](https://github.com/epidrome/cover-card/fork) and edit the files to your liking: As a first step, you may want to replace the images and edit the `_config.yml` with your online profiles. You can test the result almost in real-time at the `Github Pages` section in the Settings tab (gh-pages branch).
 
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
+### Avatar or Logo
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/kross-jekyll/blob/main/LICENSE) license.
+The avatar image should be square and at least 200 pixels. Chances are that you have a selfie somewhere in your media storage. If you are making a page for a business or product, then use a logo.
 
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+### Background image sets the mood
+
+There is no aspect ratio requirement for the background image, but it should be big enough for contemporary (desktop, tablet, phone) computer displays and dark enough in order to work for the white foreground text and icons.
+
+### Social profiles
+
+Edit the `_config.yml` file with your social media profiles by adding the respective account name, according to the documentation and comments inside that file. You can delete or comment out the social media that you don't need. Since v04, you can also control the order of your social media accounts. Moreover, you can add new media accounts and choose the icon.
+
+### Domain name
+
+Github Pages supports free custom domain names, so it is worth buying a domain name and fill it in `Custom domain` field at the settings. If you want to use the theme with you user page (ie. username.github.io), then delete (or rename) your `master branch` and rename your `gh-branch` to `master` [#13](https://github.com/epidrome/cover-card/issues/13)
+
+### Working example
+
+In addition to the configuration file in this repository, you can also [inspect a modified example of the legacy configuration file](https://github.com/epidrome/home/tree/0f333b28688a7a2e5eb84df768c277a03848d228), which is using the *legacy version* of the theme. Moreover, you can inspect a [custom (icons, links) example of the *current version*](https://github.com/epidrome/home).
+
+### Updates
+
+Please note that the theme is currently in beta, so some updates at the [master branch](https://github.com/epidrome/cover-card/tree/master) might break your site. Don't panic! 
+
+If you wish to keep your theme frozen and not receive updates, then you can [revert your remote_theme to the last known good configuration](https://github.com/benbalter/jekyll-remote-theme):
+
+> You may also optionally specify a branch, tag, or commit to use by appending an @ and the Git ref (e.g., epidrome/cover-card@v0.3). If you don't specify a Git ref, the master branch will be used.
+
+Please note that currently Github Pages seems to build your site only when you make a local change. This means that the theme might get updated but you will not receive the updated version unless you make a local change in your forked repository.
+
+You can always visit [releases](https://github.com/epidrome/cover-card/releases) for new features and check [issues](https://github.com/epidrome/cover-card/issues) for major bugs.
+
+### Expert options
+
+You can find and locally overide advanced options (e.g., font, image, and icon styles) for this theme in the documentation (readme) at the [master branch](https://github.com/epidrome/cover-card/tree/master).
+
+## Credits
+
+This page is based on the [cover-card jekyll remote theme](https://github.com/epidrome/cover-card/tree/master).
+
+Background photo by Anders Jildén and avatar photo by Ayo Ogunseinde, both on [Unsplash](https://unsplash.com/)
