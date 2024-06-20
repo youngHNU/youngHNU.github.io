@@ -2,3 +2,133 @@
 layout: default
 ---
 
+
+## My Skills
+
+<div class="skills-icons">
+    <div>
+        <i class="fab fa-java"></i>
+        <div class="rating">
+            <span>★★★★★</span>
+        </div>
+    </div>
+    <div>
+        <i class="fab fa-js"></i>
+        <div class="rating">
+            <span>★★★★☆</span>
+        </div>
+    </div>
+    <div>
+        <i class="fab fa-python"></i>
+        <div class="rating">
+            <span>★★★★★</span>
+        </div>
+    </div>
+    <div>
+        <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C language -->
+        <div class="rating">
+            <span>★★★☆☆</span>
+        </div>
+    </div>
+    <div>
+        <i class="fab fa-html5"></i>
+        <div class="rating">
+            <span>★★★★☆</span>
+        </div>
+    </div>
+    <div>
+        <i class="fab fa-css3-alt"></i>
+        <div class="rating">
+            <span>★★★☆☆</span>
+        </div>
+    </div>
+</div>
+
+## Projects
+
+<div class="projects-list">
+    <div>
+        <p>Project 1: Web Development (Planned)</p>
+        <div class="rating">
+            <span>★★★★☆</span>
+        </div>
+    </div>
+    <div>
+        <p>Project 2: Mobile App (Planned)</p>
+        <div class="rating">
+            <span>★★★☆☆</span>
+        </div>
+    </div>
+    <div>
+        <p>Project 3: Data Analysis (Planned)</p>
+        <div class="rating">
+            <span>★★★★★</span>
+        </div>
+    </div>
+    <div>
+        <p>Project 4: AI Development (Planned)</p>
+        <div class="rating">
+            <span>★★★★★</span>
+        </div>
+    </div>
+    <div>
+        <p>Project 5: Cloud Integration (Planned)</p>
+        <div class="rating">
+            <span>★★★★☆</span>
+        </div>
+    </div>
+</div>
+
+## Desired Job Role
+
+<div class="job-role-list">
+    <div>
+        <p>Software Developer</p>
+        <div class="rating">
+            <span>★★★★★</span>
+        </div>
+    </div>
+    <div>
+        <p>Data Scientist</p>
+        <div class="rating">
+            <span>★★★★★</span>
+        </div>
+    </div>
+    <div>
+        <p>Web Developer</p>
+        <div class="rating">
+            <span>★★★★☆</span>
+        </div>
+    </div>
+</div>
+
+<style>
+    .skills-icons, .projects-list, .job-role-list {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px;
+        margin-top: 20px;
+    }
+    .skills-icons div, .projects-list div, .job-role-list div {
+        background: #fff;
+        border-radius: 10px;
+        padding: 10px;
+        width: 150px;
+        text-align: center;
+    }
+    .skills-icons i {
+        font-size: 2em;
+    }
+    .rating {
+        margin-top: 10px;
+    }
+    .rating span {
+        color: gold;
+    }
+</style>
+
+## About
+Welcome to my personal website. Here you can find my projects and contact information.
+
+![Background](background.jpg)
