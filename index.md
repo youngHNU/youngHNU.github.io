@@ -61,9 +61,6 @@ layout: default
 
 <div class="projects-list">
     <div>
-        <p>Project 1: 부산헹(C Language)<br><br>2024.04.19</p>
-    </div>
-    <div>
         <p>Project 2: Fashion mall The Website<br><br>(Planned)</p>
     </div>
     <div>
