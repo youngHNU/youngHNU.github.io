@@ -7,5 +7,62 @@ avatar: 'KakaoTalk_Photo_2024-06-20-17-43-46.jpeg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
-
+<div class="skills-icons">
+    <div class="java">
+        <p>Java</p>
+        <i class="fab fa-java"></i>
+        <div class="rating">
+            <span>★★☆☆☆</span>
+        </div>
+    </div>
+    <div class="javascript">
+        <p>JavaScript</p>
+        <i class="fab fa-js"></i>
+        <div class="rating">
+            <span>★★★★☆</span>
+        </div>
+    </div>
+    <div class="python">
+        <p>Python</p>
+        <i class="fab fa-python"></i>
+        <div class="rating">
+            <span>★★★☆☆</span>
+        </div>
+    </div>
+    <div class="c-lang">
+        <p>C Language</p>
+        <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C language -->
+        <div class="rating">
+            <span>★★★★☆</span>
+        </div>
+    </div>
+    <div class="cpp">
+        <p>C++</p>
+        <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C++ -->
+        <div class="rating">
+            <span>★☆☆☆☆</span>
+        </div>
+    </div>
+    <div class="csharp">
+        <p>Swift</p>
+        <i class="fab fa-swift"></i> <!-- Using swift icon for Swift -->
+        <div class="rating">
+            <span>★★★☆☆</span>
+        </div>
+    </div>
+    <div class="html5">
+        <p>HTML</p>
+        <i class="fab fa-html5"></i>
+        <div class="rating">
+            <span>★★★☆☆</span>
+        </div>
+    </div>
+    <div class="css3">
+        <p>CSS</p>
+        <i class="fab fa-css3-alt"></i>
+        <div class="rating">
+            <span>★★☆☆☆</span>
+        </div>
+    </div>
+</div>
 
