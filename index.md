@@ -112,7 +112,7 @@ layout: default
         font-size: 2em;
     }
     .rating {
-        margin-top: 10px;
+        margin-top: 5px;
     }
     .rating span {
         color: gold;
