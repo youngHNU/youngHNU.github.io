@@ -2,26 +2,12 @@
 # Theme
 remote_theme: epidrome/cover-card@main
 
-# Title and tag line
-title: 'My name is'
-description: 'Ko Young Sun, 24years'
 
 # Images
 avatar: 'KakaoTalk_Photo_2024-06-20-17-43-46.jpeg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
-# Online profiles
-facebook: 'myfacebook'
-twitter: 'mytwitter'
-youtube: 'myyoutube'
-github-user: 'mygithub'
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
 
 social-links-order: [java, javascript, python, c-lang, html5, css3]
 
