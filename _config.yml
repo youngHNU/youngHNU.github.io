@@ -8,10 +8,13 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 
-social-links-order: [javascript, python, c-lang, html5, css3]
+social-links-order: [java, javascript, python, c-lang, html5, css3]
 
 # Yaml manifest of supported social links
-
+social-links:
+  - name: java
+    url-pattern: '#'
+    icon-class: fab fa-2x fa-java
 
   - name: javascript
     url-pattern: '#'
