@@ -75,7 +75,11 @@ layout: default
 </div>
 
 ## Desired Job Role
-
+<div class="job-role-list">
+    <div>
+        <p>Kyobo Bookstore Development: <br><br>개발자를 꿈꾸기 위해 교보문고 분야에서 가장 인기 많은 풀스텍(프론트엔드, 백엔드) 언어 쪽을 공부하며 다양한 프로젝트를 만들어 나갈 예정이다.</p>
+        <div class="rating">
+        </div>
 <div class="job-role-list">
     <div>
         <p>Kyobo Bookstore Development: <br><br>개발자를 꿈꾸기 위해 교보문고 분야에서 가장 인기 많은 풀스텍(프론트엔드, 백엔드) 언어 쪽을 공부하며 다양한 프로젝트를 만들어 나갈 예정이다.</p>
