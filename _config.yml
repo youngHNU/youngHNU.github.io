@@ -4,6 +4,7 @@ remote_theme: epidrome/cover-card@main
 
 # Images
 avatar: 'KakaoTalk_Photo_2024-06-20-17-43-46.jpeg'
+background: 'background.jpg'
 favicon: 'favicon.ico'
 
 
