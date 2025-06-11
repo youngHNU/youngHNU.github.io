@@ -38,7 +38,7 @@ layout: default
         <p>C++</p>
         <i class="fab fa-cuttlefish"></i> <!-- Using cuttlefish icon for C++ -->
         <div class="rating">
-            <span>★☆☆☆☆</span>
+            <span>☆☆☆☆</span>
         </div>
     </div>
     <div class="html5">
