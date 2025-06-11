@@ -98,8 +98,8 @@ layout: default
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
-        gap: 20px;
-        margin-top: 10px;
+        gap: 20px; "주변 사이의 넓이"
+        margin-top: 10px; "위 아래 넓이"
     }
     .skills-icons div, .projects-list div, .job-role-list div {
         background: #fff;
