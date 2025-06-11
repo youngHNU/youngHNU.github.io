@@ -98,8 +98,8 @@ layout: default
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
-        gap: 20px;
-        margin-top: 20px;
+        gap: 10px;
+        margin-top: 10px;
     }
     .skills-icons div, .projects-list div, .job-role-list div {
         background: #fff;
