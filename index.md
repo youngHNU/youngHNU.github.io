@@ -40,6 +40,7 @@ layout: default
         <div class="rating">
             <span>★☆☆☆☆</span>
         </div>
+    </div>
     <div class="html5">
         <p>HTML</p>
         <i class="fab fa-html5"></i>
